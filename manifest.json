@@ -1,0 +1,28 @@
+{
+
+  "manifest_version": 2,
+  "name": "WShabtiXn",
+  "version": "2.2",
+
+  "description": "Regola a tuo piacimento la velocita di riproduzione di video!",
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/border-48.png",
+    "default_title": "WShabtiXn",
+    "default_popup": "popup/choose_speed.html"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"]
+    }
+  ]
+
+}

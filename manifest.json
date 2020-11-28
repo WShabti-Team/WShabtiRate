@@ -1,10 +1,10 @@
 {
 
   "manifest_version": 2,
-  "name": "WShabtiXn",
+  "name": "WShabtiRate",
   "version": "2.2",
 
-  "description": "Regola a tuo piacimento la velocita di riproduzione di video!",
+  "description": "Change the playback rate of videos.",
   "icons": {
     "48": "icons/border-48.png"
   },
@@ -15,7 +15,7 @@
 
   "browser_action": {
     "default_icon": "icons/border-48.png",
-    "default_title": "WShabtiXn",
+    "default_title": "WShabtiRate",
     "default_popup": "popup/choose_speed.html"
   },
 

@@ -17,7 +17,7 @@ Start a video, click on extension and adjust the rate using the scroll bar.
 
 ![sampleImage](https://i.postimg.cc/tghNQKHK/Schermata-2020-11-28-alle-12-51-03.png)
 
-Press **Reset** to go back at **x1**
+Press **Reset** to go back to **x1**
 
 ## Compatibility
 This extension has been now tested with:

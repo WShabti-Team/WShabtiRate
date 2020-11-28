@@ -20,7 +20,7 @@ Start a video, click on extension and adjust the rate using the scroll bar.
 Press **Reset** to go back to **x1**
 
 ## Compatibility
-This extension has been now tested with:
+This extension has been tested with:
 
 ✅ - YouTube
 

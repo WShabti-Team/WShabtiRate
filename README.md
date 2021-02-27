@@ -1,4 +1,4 @@
-# WshabtiRate
+# WShabtiRate
 
 Change the playback rate of videos
 
